@@ -13,7 +13,7 @@
 - Slider is to control the background opacity
 - Click the three dots above the profile pic to toggle visibility of slider
 
-Click [here](https://utpalcoding.github.io/MSC_Project/) to see live
+Click [here](https://utpalcoding.github.io/) to see live
 
 
 </br>
