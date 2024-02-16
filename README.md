@@ -19,5 +19,5 @@ Click [here](https://utpalcoding.github.io/MSC_Project/) to see live
 </br>
 <p align="center">Made with html,css and js</p>
 <p align="center">Copyright © 2024-Author UtpalCoding</p>
-<div align="center">SS<a href="LICENSE"><img src="https://custom-icon-badges.demolab.com/github/license/UtpalCoding/UtpalCoding.github.io?label=License&labelColor=302d41&color=91d7e3&logo=law&logoColor=d9e0ee&style=for-the-badge" alt="License"></a>
+<div align="center"><a href="LICENSE"><img src="https://custom-icon-badges.demolab.com/github/license/UtpalCoding/UtpalCoding.github.io?label=License&labelColor=302d41&color=91d7e3&logo=law&logoColor=d9e0ee&style=for-the-badge" alt="License"></a>
 </div>
