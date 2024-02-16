@@ -4,18 +4,6 @@
   <div align="center"></a><a href="https://github.com/UtpalCoding/UtpalCoding.github.io/pull"><img src="https://custom-icon-badges.demolab.com/github/issues-pr/UtpalCoding/UtpalCoding.github.io?&label=Pull%20Requests&labelColor=302d41&color=ddb6f2&logoColor=d9e0ee&logo=git-pull-request&style=for-the-badge" alt="PRs"/></a><a href="https://github.com/UtpalCoding/UtpalCoding.github.io/archive/refs/heads/master.zip"><img src="https://custom-icon-badges.demolab.com/github/languages/code-size/UtpalCoding/UtpalCoding.github.io?label=Download&logo=download&labelColor=302d41&color=b7bdf8&logoColor=d9e0ee&style=for-the-badge" alt="Download .zip"></a></div></br>
 
 
-</br></br>
-
-# Project
-
-- This is a Profile Card Design
-- Designs are pure CSS
-- Slider is to control the background opacity
-- Click the three dots above the profile pic to toggle visibility of slider
-
-Click [here](https://utpalcoding.github.io/) to see live
-
-
 </br>
 <p align="center">Made with html,css and js</p>
 <p align="center">Copyright © 2024-Author UtpalCoding</p>
